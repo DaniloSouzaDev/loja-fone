@@ -22,3 +22,5 @@ da collabcode.training:
 
 `<head>` - tag de configuração
 Usada para configurações do site como title, meta etc... 
+
+kkkkkkkkkkkkkkkkkkkkkk
