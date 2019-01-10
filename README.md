@@ -4,6 +4,7 @@ HTML é uma linguagem de marcação com as seguintes responsabilidades:
 
 - Conteúdo;
 - Semântica (tags);
+- Estrutura
 
 `<h1>` - heading 1 - 6
 Usamos quando queremos definir títulos.
@@ -23,5 +24,8 @@ da collabcode.training:
 `<head>` - tag de configuração
 Usada para configurações do site como title, meta etc... 
 
-kkkkkkkkkkkkkkkkkkkkkk
-lllllllllllllllllllllll
+# CSS
+
+É uma linguagem de estilo, isso quer dizer que ela tem as seguintes responsabilidades:
+
+- Visual
