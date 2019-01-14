@@ -2,10 +2,13 @@
   box-sizing: border-box;
 }
 
+<<<<<<< HEAD
 .container {
   margin: 0 auto;
 }
 
+=======
+>>>>>>> 919ef796706476e3094325a63dc4e5aa7288e5c3
 header {
   background-color: #e24647;
   color: #fff; 
@@ -38,12 +41,20 @@ a {
   background-color: #252c41;
   font-family: Arial, "Roboto", sans-serif;
   color: #fff;
+<<<<<<< HEAD
+=======
+  text-align: center;
+>>>>>>> 919ef796706476e3094325a63dc4e5aa7288e5c3
   width: 199px;
   height: 60px;
   border-radius: 2px;
   font-size: 20px;
   padding: 19px 60px;
+<<<<<<< HEAD
   margin-left: 38px;
+=======
+  margin-left: 900px;
+>>>>>>> 919ef796706476e3094325a63dc4e5aa7288e5c3
 }
 
 /* li, h1 {
