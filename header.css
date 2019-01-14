@@ -2,12 +2,18 @@
   box-sizing: border-box;
 }
 
+.container {
+  margin: 0 auto;
+}
+
 header {
   background-color: #e24647;
   color: #fff; 
   overflow: hidden;
   margin: 117px 115px;
   padding: 55px 60px 95px;
+  position: relative;
+  top: 68.5px;
 }
 
 h1 {
@@ -32,13 +38,12 @@ a {
   background-color: #252c41;
   font-family: Arial, "Roboto", sans-serif;
   color: #fff;
-  text-align: center;
   width: 199px;
   height: 60px;
   border-radius: 2px;
   font-size: 20px;
   padding: 19px 60px;
-  margin-left: 900px;
+  margin-left: 38px;
 }
 
 /* li, h1 {
