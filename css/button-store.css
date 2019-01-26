@@ -9,9 +9,9 @@
   text-decoration: none;
   width: 200px;
   height: 60px;
-  display: inline-block;
+  display: Block;
   border: none;
-  /* margin-top: 100px; */
+  float: left;
 }
 
 .button-store.-second {
@@ -19,4 +19,5 @@
   line-height: 56px;
   width: 218px;
   border: 2px solid #fff;
+  margin-right: 38px;
 }
