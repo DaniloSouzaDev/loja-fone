@@ -11,6 +11,7 @@
     <link rel="stylesheet" href="css/container-store.css" />
     <link rel="stylesheet" href="css/header-store.css" />
     <link rel="stylesheet" href="css/button-store.css" />
+    <link rel="stylesheet" href="./css/info-produtos.css" />
   </head>
 
   <body>
@@ -24,25 +25,32 @@
         </nav>
       </header>
 
-      <img class="product" src="./assets/fone.png" alt="Fone" />
+      <div class="product col">
+        <dd><img class="photo" src="./assets/fone.png" alt="Fone" /></dd>
+      </div>
 
-      <dl class="dl-product">
-        <dt class="dt-title">Fone top, feliz e caro</dt>
-        <dd class="dd-product">4.0 (97)</dd>
-        <dd class="dd-product">FRETE C$ 108</dd>
-        <dd class="dd-product">PREÇO C$ 340</dd>
-        <dd class="dd-product description">
-          Fone TOP com um cor feliz que não tem fio. A cor também é algo que
-          impressiona junto com o seu layout modernão! Ele é caro? É! Mas compre
-          que você não vai se arrepender e se você se arrepender pode vender no
-          mercado livre..kkkk
-        </dd>
-        <dd><a class="dd-callToAction" href="#">Saber mais...</a></dd>
-        <dd>
-          <button class="button-store -second">Adicionar no carrinho</button>
-        </dd>
-        <dd><a href="comprar.html" class="button-store">Comprar</a></dd>
-      </dl>
+      <div class="description-product col">
+        <dl class="product-info">
+          <dt class="dt-title">Fone top, feliz e caro</dt>
+          <dd class="dd-votes">4.0 (97)</dd>
+          <dd class="dd-frete">FRETE C$ 108</dd>
+          <dd class="dd-price">PREÇO C$ 340</dd>
+          <dd class="dd-description">
+            Fone TOP com um cor feliz que não tem fio. A cor também é algo que
+            impressiona junto com o seu layout modernão! Ele é caro? É! Mas
+            compre que você não vai se arrepender e se você se arrepender pode
+            vender no mercado livre..kkkk
+          </dd>
+          <dd class="dd-callToAction">
+            <a class="a-callToAction" href="#">Saber mais...</a>
+          </dd>
+
+          <dd>
+            <button class="button-store -second">Adicionar no carrinho</button>
+          </dd>
+          <dd><a href="comprar.html" class="button-store">Comprar</a></dd>
+        </dl>
+      </div>
     </div>
   </body>
 </html>

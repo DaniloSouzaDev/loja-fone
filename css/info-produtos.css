@@ -1,0 +1,53 @@
+.product-info {
+  color: #fff;
+  font-family: Arial, "Roboto", sans-serif;
+}
+.dt-title {
+  margin-top: 138px;
+  font-size: 25px;
+}
+
+.dd-votes {
+  margin-top: 99px;
+'  font-size: 20px;'
+}
+.dd-frete {
+  margin-top: 28px;
+  font-size: 20px;
+}
+.dd-price {
+  margin-top: 26px;
+  font-size: 20px;
+}
+.dd-description {
+  margin-top: 73px;
+  font-size: 18px;
+}
+.dd-callToAction a {
+  text-decoration: none;
+  color: #fff;
+}
+.dd-callToAction {
+  font-size: 18px;
+  margin-top: 60px;
+}
+
+.photo {
+  background-color: #fff;
+  width: 550px;
+  float: left;
+  margin-top: 122px;
+
+}
+.col {
+  width: 50%;
+}
+.product {
+  float: left;
+  /* margin-right: 105px; */
+}
+
+.description-product {
+  float: right;
+  /* margin-left: 105px; */
+}
