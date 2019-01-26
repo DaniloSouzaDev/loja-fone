@@ -3,7 +3,7 @@
 }
 
 .header-store {
-  color: #fff; 
+  color: #fff;
   overflow: hidden;
 }
 
@@ -16,7 +16,7 @@
 .navigation {
   float: right;
   font-size: 21px;
-  font-family: 'Segoe UI', "Roboto", sans-serif;
+  font-family: "Segoe UI", "Roboto", sans-serif;
 }
 
 .action {
@@ -28,9 +28,3 @@
 .last {
   margin-right: 0;
 }
-
-
-
-
-
-

@@ -11,6 +11,8 @@
 .dl-product {
   color: #fff;
   font-family: Arial, "Roboto", sans-serif;
+  float: right;
+  width: 456px;
 }
 .dt-title {
   margin: 144px auto 100px auto;
@@ -31,4 +33,12 @@
   font-size: 18px;
   margin-bottom: 100px;
   display: block;
+}
+
+.product {
+  width: 500px;
+  height: 500px;
+  position: absolute;
+  top: 200px;
+  left: 10px;
 }
