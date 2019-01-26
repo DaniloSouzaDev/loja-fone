@@ -7,3 +7,28 @@
   left: 50%;
   transform: translate(-50%, -50%);
 }
+
+.dl-product {
+  color: #fff;
+  font-family: Arial, "Roboto", sans-serif;
+}
+.dt-title {
+  margin: 144px auto 100px auto;
+  font-size: 25px;
+}
+
+.dd-product {
+  margin-bottom: 28px;
+  font-size: 20px;
+}
+.description {
+  margin-top: 73px;
+  font-size: 18px;
+}
+.dd-callToAction {
+  text-decoration: none;
+  color: #fff;
+  font-size: 18px;
+  margin-bottom: 100px;
+  display: block;
+}
