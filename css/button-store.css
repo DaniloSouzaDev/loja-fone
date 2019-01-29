@@ -12,7 +12,6 @@
   display: Block;
   border: none;
   float: left;
-  margin-top: 98px;
 }
 
 .button-store.-second {
@@ -21,4 +20,13 @@
   width: 218px;
   border: 2px solid #fff;
   margin-right: 38px;
+}
+
+.button-store button,
+.button-store a {
+  background-color: inherit;
+  border: none;
+  color: inherit;
+  text-decoration: inherit;
+  font-size: inherit;
 }
