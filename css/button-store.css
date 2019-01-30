@@ -30,3 +30,8 @@
   text-decoration: inherit;
   font-size: inherit;
 }
+
+.buttons {
+  float: right;
+  margin-right: 58px;
+}
