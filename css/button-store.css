@@ -32,8 +32,8 @@
   font-size: inherit;
 }
 
-.buttons {
-  position: relative;
-  left: 640px;
-  margin: 30px 58px 0 0;
+.wrap-product > .buttons {
+  position: absolute;
+  bottom: 0;
+  transform: translateY(calc(100% + 100px));
 }

@@ -14,6 +14,7 @@
   font-family: Arial, "Roboto", sans-serif;
   float: left;
   text-transform: uppercase;
+  cursor: pointer;
 }
 
 .header-store > .navigation {
@@ -31,22 +32,26 @@
 .header-store.action nav > .-last {
   margin-right: 0;
 }
-.box-search {
+.header-store input[type="search"] {
   background-color: transparent;
+  font-size: 18px;
+  font-family: Arial, "Roboto", sans-serif;
+  color: inherit;
   border: none;
   border-bottom: solid 1px #fff;
-  margin: 0;
   width: 250px;
   height: 32px;
   outline: none;
-  font-size: 18px;
+  padding: 8px;
 }
 
-input::placeholder {
+.header-store > input,
+#search::placeholder {
   color: #fff;
   font-size: 20px;
 }
-input:focus::placeholder {
+.header-store > input,
+#search:focus::placeholder {
   opacity: 0.3;
   color: #fff;
 }

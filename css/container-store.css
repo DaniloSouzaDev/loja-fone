@@ -1,11 +1,12 @@
 .container-store {
   background-color: #e24647;
   width: 95%;
-  padding: 55px 60px 95px 0;
+  padding: 55px 60px 165px 0;
   /* position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%); */
   margin: 138px auto;
   box-shadow: 0 0 39px 0 rgba(50, 50, 50, 0.36);
+  overflow: hidden;
 }
