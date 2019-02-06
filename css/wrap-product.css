@@ -2,6 +2,9 @@
   display: inline-block;
   width: 554px;
   vertical-align: middle;
-  padding: 0 0 0 95px;
   position: relative;
+}
+
+main {
+  display: inline-block;
 }

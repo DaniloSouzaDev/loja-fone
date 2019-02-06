@@ -2,9 +2,6 @@
   color: #fff;
   font-family: Arial, "Roboto", sans-serif;
   width: 554px;
-  display: inline-block;
-  vertical-align: top;
-  /* margin-left: 50px; */
 }
 .description-product .title {
   margin-bottom: 50px;
