@@ -12,10 +12,16 @@
   display: Block;
   border: none;
   float: left;
+  cursor: pointer;
+  transition: all 0.2s linear;
 }
-a.button-store:hover {
+.button-store:hover,
+.button-store:focus {
   background-color: #fff;
   color: #252c41;
+}
+.button-store:active {
+  transform: scale(0.95);
 }
 
 .button-store.-second {
@@ -24,11 +30,14 @@ a.button-store:hover {
   width: 218px;
   border: 2px solid #fff;
   margin-right: 38px;
-  cursor: pointer;
 }
-.button-store.-second:hover {
+.button-store.-second:hover,
+.button-store.-second:focus {
   background-color: #fff;
   color: #e24647;
+}
+.button-store.-second:active {
+  transform: scale(0.95);
 }
 
 .button-store button,

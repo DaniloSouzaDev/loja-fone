@@ -12,6 +12,15 @@
   margin-bottom: 28px;
   font-size: 20px;
 }
+
+.description-product > .item.heart {
+  position: absolute;
+  cursor: pointer;
+  transform: translateX(-100%);
+  top: 8px;
+  left: -47px;
+}
+
 .description-product > .item.-star {
   margin-bottom: 10px;
   cursor: pointer;
