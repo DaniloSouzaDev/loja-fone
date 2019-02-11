@@ -29,7 +29,7 @@
   margin-right: 60px;
 }
 
-.header-store nav > .action:hover {
+.header-store nav > .action.border:hover {
   border-bottom: solid 1px #fff;
 }
 
