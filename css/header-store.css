@@ -29,6 +29,10 @@
   margin-right: 60px;
 }
 
+.header-store nav > .action:hover {
+  border-bottom: solid 1px #fff;
+}
+
 .header-store.action nav > .-last {
   margin-right: 0;
 }
