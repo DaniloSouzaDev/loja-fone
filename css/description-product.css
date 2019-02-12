@@ -20,6 +20,10 @@
   top: 8px;
   left: -47px;
 }
+
+.description-product .img-heart {
+  transition: transform 100ms linear;
+}
 .description-product .img-heart:hover {
   transform: scale(1.3);
 }
@@ -28,8 +32,12 @@
   margin-bottom: 10px;
   cursor: pointer;
 }
-.description-product .star:hover {
-  transform: scale(1.1);
+
+.description-product .icon {
+  transition: transform 100ms linear;
+}
+.description-product .icon:hover {
+  transform: scale(1.2);
 }
 
 .description-product > .item.-info {
